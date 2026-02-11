@@ -1,0 +1,38 @@
+item_id,item_name,category,theoretical_cost,target_margin,is_active
+ANT-001,Bruschetta al pomodoro,Antipasti,1.80,74,True
+ANT-002,Caprese,Antipasti,2.50,72,True
+ANT-003,Prosciutto e melone,Antipasti,3.20,71,True
+ANT-004,Affettati misti,Antipasti,4.00,69,True
+PIZ-001,Margherita,Pizze,2.10,77,True
+PIZ-002,Marinara,Pizze,1.50,81,True
+PIZ-003,Diavola,Pizze,2.80,75,True
+PIZ-004,Quattro stagioni,Pizze,3.20,73,False
+PIZ-005,Capricciosa,Pizze,3.50,72,True
+PIZ-006,Prosciutto e funghi,Pizze,3.80,71,False
+PIZ-007,Bufala e pachino,Pizze,4.50,70,True
+PIZ-008,Salsiccia e friarielli,Pizze,4.00,71,True
+PIZ-009,Pizza gourmet tartufo,Pizze,7.00,68,True
+PRI-001,Carbonara,Primi,3.50,75,True
+PRI-002,Amatriciana,Primi,3.20,75,True
+PRI-003,Cacio e pepe,Primi,2.80,78,True
+PRI-004,Pasta al pesto,Primi,2.50,79,True
+PRI-005,Spaghetti alle vongole,Primi,5.00,69,True
+PRI-006,Risotto alla milanese,Primi,3.80,75,True
+PRI-007,Risotto ai funghi porcini,Primi,5.50,69,True
+SEC-001,Tagliata di manzo,Secondi,8.50,65,True
+SEC-002,Ossobuco alla milanese,Secondi,7.80,65,True
+SEC-003,Cotoletta alla milanese,Secondi,6.50,68,True
+SEC-004,Branzino al forno,Secondi,9.50,63,True
+SEC-005,Pollo arrosto,Secondi,4.80,70,True
+CON-001,Insalata mista,Contorni,1.50,75,True
+CON-002,Patate al forno,Contorni,1.20,76,True
+CON-003,Verdure grigliate,Contorni,2.00,71,True
+DOL-001,Tiramisù,Dolci,1.80,74,True
+DOL-002,Panna cotta,Dolci,1.50,75,True
+DOL-003,Cheesecake,Dolci,2.20,73,True
+BEV-001,Vino rosso (calice),Bevande,1.50,75,True
+BEV-002,Vino bianco (calice),Bevande,1.50,75,True
+BEV-003,Birra media,Bevande,1.20,76,True
+BEV-004,Acqua naturale,Bevande,0.40,84,True
+BEV-005,Caffè,Bevande,0.25,83,True
+BEV-006,Spritz,Bevande,2.00,75,True

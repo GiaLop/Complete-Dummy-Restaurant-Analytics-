@@ -1,0 +1,110 @@
+dish_id,dish_name,ingredient_id,ingredient_name,quantity,unit,costo_unitario,costo_ingrediente
+ANT-001,Bruschetta al pomodoro,TOM-01,Pomodoro pelato,0.08,kg,1.2,0.10
+ANT-001,Bruschetta al pomodoro,OLI-01,Olio EVO,0.015,lt,5,0.07
+ANT-001,Bruschetta al pomodoro,BAS-01,Basilico,0.3,mazzo,1.5,0.45
+ANT-002,Caprese,MOZZ-01,Mozzarella fior di latte,0.125,kg,5.5,0.69
+ANT-002,Caprese,TOM-01,Pomodoro pelato,0.15,kg,1.2,0.18
+ANT-002,Caprese,OLI-01,Olio EVO,0.02,lt,5,0.10
+ANT-002,Caprese,BAS-01,Basilico,0.2,mazzo,1.5,0.30
+ANT-003,Prosciutto e melone,PRO-01,Prosciutto crudo,0.08,kg,22,1.76
+ANT-003,Prosciutto e melone,VER-01,Verdure miste,0.2,kg,3.5,0.70
+ANT-004,Affettati misti,PRO-01,Prosciutto crudo,0.05,kg,22,1.10
+ANT-004,Affettati misti,PRO-02,Prosciutto cotto,0.05,kg,15,0.75
+ANT-004,Affettati misti,SAL-01,Salame piccante,0.05,kg,18,0.90
+PIZ-001,Margherita,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-001,Margherita,TOM-01,Pomodoro pelato,0.1,kg,1.2,0.12
+PIZ-001,Margherita,MOZZ-01,Mozzarella fior di latte,0.1,kg,5.5,0.55
+PIZ-001,Margherita,OLI-01,Olio EVO,0.015,lt,5,0.07
+PIZ-001,Margherita,BAS-01,Basilico,0.1,mazzo,1.5,0.15
+PIZ-002,Marinara,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-002,Marinara,TOM-01,Pomodoro pelato,0.1,kg,1.2,0.12
+PIZ-002,Marinara,OLI-01,Olio EVO,0.02,lt,5,0.10
+PIZ-003,Diavola,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-003,Diavola,TOM-01,Pomodoro pelato,0.1,kg,1.2,0.12
+PIZ-003,Diavola,MOZZ-01,Mozzarella fior di latte,0.1,kg,5.5,0.55
+PIZ-003,Diavola,SAL-01,Salame piccante,0.07,kg,18,1.26
+PIZ-003,Diavola,OLI-01,Olio EVO,0.015,lt,5,0.07
+PIZ-004,Quattro stagioni,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-004,Quattro stagioni,TOM-01,Pomodoro pelato,0.1,kg,1.2,0.12
+PIZ-004,Quattro stagioni,MOZZ-01,Mozzarella fior di latte,0.1,kg,5.5,0.55
+PIZ-004,Quattro stagioni,PRO-02,Prosciutto cotto,0.05,kg,15,0.75
+PIZ-004,Quattro stagioni,FUN-01,Funghi freschi,0.05,kg,8.5,0.43
+PIZ-004,Quattro stagioni,OLI-01,Olio EVO,0.015,lt,5,0.07
+PIZ-005,Capricciosa,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-005,Capricciosa,TOM-01,Pomodoro pelato,0.1,kg,1.2,0.12
+PIZ-005,Capricciosa,MOZZ-01,Mozzarella fior di latte,0.1,kg,5.5,0.55
+PIZ-005,Capricciosa,PRO-02,Prosciutto cotto,0.06,kg,15,0.90
+PIZ-005,Capricciosa,FUN-01,Funghi freschi,0.05,kg,8.5,0.43
+PIZ-005,Capricciosa,OLI-01,Olio EVO,0.015,lt,5,0.07
+PIZ-006,Prosciutto e funghi,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-006,Prosciutto e funghi,TOM-01,Pomodoro pelato,0.1,kg,1.2,0.12
+PIZ-006,Prosciutto e funghi,MOZZ-01,Mozzarella fior di latte,0.1,kg,5.5,0.55
+PIZ-006,Prosciutto e funghi,PRO-02,Prosciutto cotto,0.07,kg,15,1.05
+PIZ-006,Prosciutto e funghi,FUN-01,Funghi freschi,0.06,kg,8.5,0.51
+PIZ-006,Prosciutto e funghi,OLI-01,Olio EVO,0.015,lt,5,0.07
+PIZ-007,Bufala e pachino,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-007,Bufala e pachino,TOM-01,Pomodoro pelato,0.15,kg,1.2,0.18
+PIZ-007,Bufala e pachino,MOZZ-02,Mozzarella di bufala,0.125,kg,12,1.50
+PIZ-007,Bufala e pachino,OLI-01,Olio EVO,0.02,lt,5,0.10
+PIZ-008,Salsiccia e friarielli,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-008,Salsiccia e friarielli,MOZZ-01,Mozzarella fior di latte,0.1,kg,5.5,0.55
+PIZ-008,Salsiccia e friarielli,CAR-01,Carne manzo (tagliata),0.1,kg,18.5,1.85
+PIZ-008,Salsiccia e friarielli,VER-01,Verdure miste,0.08,kg,3.5,0.28
+PIZ-008,Salsiccia e friarielli,OLI-01,Olio EVO,0.02,lt,5,0.10
+PIZ-009,Pizza gourmet tartufo,FAR-01,Farina tipo 00,0.25,kg,1.1,0.28
+PIZ-009,Pizza gourmet tartufo,MOZZ-02,Mozzarella di bufala,0.12,kg,12,1.44
+PIZ-009,Pizza gourmet tartufo,FUN-02,Funghi porcini,0.08,kg,28,2.24
+PIZ-009,Pizza gourmet tartufo,OLI-01,Olio EVO,0.025,lt,5,0.13
+PRI-001,Carbonara,PAS-01,Pasta secca,0.1,kg,2.8,0.28
+PRI-001,Carbonara,CAR-02,Guanciale,0.08,kg,16,1.28
+PRI-001,Carbonara,UOV-01,Uova,0.05,kg,3.2,0.16
+PRI-001,Carbonara,FOR-01,Pecorino romano,0.03,kg,14,0.42
+PRI-002,Amatriciana,PAS-01,Pasta secca,0.1,kg,2.8,0.28
+PRI-002,Amatriciana,CAR-02,Guanciale,0.07,kg,16,1.12
+PRI-002,Amatriciana,TOM-01,Pomodoro pelato,0.1,kg,1.2,0.12
+PRI-002,Amatriciana,FOR-01,Pecorino romano,0.025,kg,14,0.35
+PRI-002,Amatriciana,CIP-01,Cipolle,0.03,kg,1.2,0.04
+PRI-003,Cacio e pepe,PAS-01,Pasta secca,0.1,kg,2.8,0.28
+PRI-003,Cacio e pepe,FOR-01,Pecorino romano,0.05,kg,14,0.70
+PRI-004,Pasta al pesto,PAS-01,Pasta secca,0.1,kg,2.8,0.28
+PRI-004,Pasta al pesto,BAS-01,Basilico,1,mazzo,1.5,1.50
+PRI-004,Pasta al pesto,OLI-01,Olio EVO,0.04,lt,5,0.20
+PRI-004,Pasta al pesto,FOR-02,Parmigiano Reggiano,0.025,kg,16,0.40
+PRI-005,Spaghetti alle vongole,PAS-01,Pasta secca,0.1,kg,2.8,0.28
+PRI-005,Spaghetti alle vongole,PES-02,Vongole,0.3,kg,16,4.80
+PRI-005,Spaghetti alle vongole,OLI-01,Olio EVO,0.03,lt,5,0.15
+PRI-006,Risotto alla milanese,RIS-01,Riso Carnaroli,0.08,kg,4.5,0.36
+PRI-006,Risotto alla milanese,FOR-02,Parmigiano Reggiano,0.03,kg,16,0.48
+PRI-006,Risotto alla milanese,ZAF-01,Zafferano,0.5,gr,0.15,0.07
+PRI-007,Risotto ai funghi porcini,RIS-01,Riso Carnaroli,0.08,kg,4.5,0.36
+PRI-007,Risotto ai funghi porcini,FUN-02,Funghi porcini,0.15,kg,28,4.20
+PRI-007,Risotto ai funghi porcini,FOR-02,Parmigiano Reggiano,0.03,kg,16,0.48
+SEC-001,Tagliata di manzo,CAR-01,Carne manzo (tagliata),0.35,kg,18.5,6.47
+SEC-001,Tagliata di manzo,OLI-01,Olio EVO,0.02,lt,5,0.10
+SEC-001,Tagliata di manzo,VER-05,Insalata,0.05,kg,2.5,0.13
+SEC-002,Ossobuco alla milanese,CAR-03,Vitello (ossobuco),0.4,kg,14,5.60
+SEC-002,Ossobuco alla milanese,VER-01,Verdure miste,0.08,kg,3.5,0.28
+SEC-002,Ossobuco alla milanese,OLI-01,Olio EVO,0.025,lt,5,0.13
+SEC-003,Cotoletta alla milanese,CAR-03,Vitello (ossobuco),0.25,kg,14,3.50
+SEC-003,Cotoletta alla milanese,UOV-01,Uova,0.05,kg,3.2,0.16
+SEC-003,Cotoletta alla milanese,PAN-01,Pangrattato,0.05,kg,2,0.10
+SEC-004,Branzino al forno,PES-01,Branzino,0.35,kg,24,8.40
+SEC-004,Branzino al forno,OLI-01,Olio EVO,0.03,lt,5,0.15
+SEC-004,Branzino al forno,VER-04,Patate,0.15,kg,1.5,0.22
+SEC-005,Pollo arrosto,CAR-04,Pollo,0.35,kg,6.5,2.27
+SEC-005,Pollo arrosto,VER-04,Patate,0.2,kg,1.5,0.30
+SEC-005,Pollo arrosto,OLI-01,Olio EVO,0.02,lt,5,0.10
+CON-001,Insalata mista,VER-05,Insalata,0.2,kg,2.5,0.50
+CON-001,Insalata mista,OLI-01,Olio EVO,0.015,lt,5,0.07
+CON-002,Patate al forno,VER-04,Patate,0.25,kg,1.5,0.38
+CON-002,Patate al forno,OLI-01,Olio EVO,0.02,lt,5,0.10
+CON-003,Verdure grigliate,VER-02,Zucchine,0.1,kg,2.8,0.28
+CON-003,Verdure grigliate,VER-03,Melanzane,0.1,kg,3.2,0.32
+CON-003,Verdure grigliate,OLI-01,Olio EVO,0.025,lt,5,0.13
+DOL-001,Tiramisù,DOL-01,Mascarpone,0.1,kg,8,0.80
+DOL-001,Tiramisù,DOL-02,Savoiardi,0.05,kg,6.5,0.33
+DOL-001,Tiramisù,DOL-03,Caffè,0.02,kg,12,0.24
+DOL-001,Tiramisù,UOV-01,Uova,0.03,kg,3.2,0.10
+DOL-002,Panna cotta,DOL-04,Panna,0.15,lt,4.5,0.67
+DOL-003,Cheesecake,DOL-01,Mascarpone,0.12,kg,8,0.96
+DOL-003,Cheesecake,DOL-02,Savoiardi,0.04,kg,6.5,0.26
